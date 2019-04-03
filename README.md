@@ -1,4 +1,4 @@
 # CS247-HW0
 123
 
-0 points for not submitting anything
+100 points for not submitting anything
